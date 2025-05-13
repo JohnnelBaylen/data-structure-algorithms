@@ -1,0 +1,39 @@
+Data : 
+
+    - is a collection of numbers, symbols or characters.
+    - it is raw and and unorganized. 
+
+Information :
+
+    - an organized collection of data, that is arranged meaningfully. 
+
+What is the Data Structures?
+
+    - is a data organization, management and storage format 
+      that enables efficient access and modification. 
+    - is a way in which a Data is stored on a divice like is it alphabetical order.
+
+Why do we need Data Structures?
+
+    - so that we can Store Data in a particular situation efficiently and use our resources
+      in the most productive way possible.
+
+Real world application : 
+
+    * Dictionary 
+        - Stored alphabetically
+        - Efficient searching 
+    * Supermarket 
+        - Stored Categorically
+        - Efficient searching 
+    * Map 
+        - Stored as Coordinates 
+        - Efficient searching
+
+Varibles : 
+
+    - a Temporary storage for data which is stored in our RAM.
+
+Array / Collection :
+
+    - 
