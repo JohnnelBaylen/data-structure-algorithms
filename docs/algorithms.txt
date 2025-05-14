@@ -1,0 +1,62 @@
+Algorithm : 
+
+    - A set of instuction designed to perform a specific task. 
+    - In Programming it can be as simple as performing math operations to complicated operations.
+    - Algorithm are different from actual implementation.
+
+Algorithm Characteristics : 
+
+    - Input         :   Zero or More Inputs
+    - Output        :   One or More Outputs 
+    - Unambuilty    :   Clear and Simple
+    - Finiteness    :   Limited instuction
+    - Effectiveness :   Impact of every Step
+
+Algorithm Flow : 
+
+    - Input    : Needed Values
+    - Process  : operations
+    - Output   : Result
+
+Real World Algorithm : 
+
+    - 
+
+Programming Algorithm : 
+
+    - 
+
+Programming implementation : 
+
+    - 
+
+Algorithms and Data Structures : 
+
+    - Data Structures are set of algorithms that organizes data in a certain way.
+
+Algorithm Complexity :
+
+    - An Algorithm's Performance is measured by 
+
+        * Time Complexity 
+
+            - Represents the amount of time needed by the algorithm for it to be completed.
+
+        * Space Complexity 
+
+            - Represents the amount of memory needed for the algorithm in its process.
+        
+        - There are plenty of factors to consider in Space Complexity 
+
+                * Instuction Space
+
+                    - The size of the executable file of a program that varies 
+                      depending on the number of lines of code. 
+
+                * Data Space 
+    
+                    - The size required to store varibles and constants. 
+
+                * Environment Space 
+
+                    - The size required to store environment information to resume a function. 
