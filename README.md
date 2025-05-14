@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Notes
+# Data Structures and Algorithms
 
 This repository contains documentation and source code related to fundamental **Data Structures** and **Algorithms** concepts. The content is organized in a clear and structured manner for easy reference and learning.
 
