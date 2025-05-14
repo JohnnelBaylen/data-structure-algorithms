@@ -32,11 +32,13 @@ Real world application :
 
 Varibles : 
 
-    - a Temporary storage for data which is stored in our RAM.
+    - A Temporary storage for data which is stored in our RAM.
 
 Array / Collection :
 
-    - 
+    - A Data Structure that contains a group of values / varibles that can be accessed by using an index.
+    - In most cases their values are of the Same Datatype. 
+    - They are commonly used to organize data so that it can be easily sorted or searched. 
 
 Programming application : 
 
@@ -44,4 +46,5 @@ Programming application :
 
 Conclusion : 
 
-    - 
+    - The Main Goal of Data Structures and Algorithms is to MINIMIZE the time comsumed in searching,
+      sorting and writing Data on our System.   
