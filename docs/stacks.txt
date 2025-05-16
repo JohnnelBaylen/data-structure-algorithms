@@ -1,0 +1,6 @@
+Stack Data Stucture : 
+
+    - A Data Stucture where data are stacked upon each other, it follows the principle:
+
+        * LI - FO (Last In - First Out) 
+        * FI - LO (First In - Last Out)
