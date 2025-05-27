@@ -4,3 +4,29 @@ Stack Data Stucture :
 
         * LI - FO (Last In - First Out) 
         * FI - LO (First In - Last Out)
+
+Stack Operations : 
+
+    * push()
+
+        - Insert data on top of the stack.
+
+    * pop()
+
+        - Removes data on top of the stack.
+
+    * isEmpty()
+
+        - Checks if stack is empty.
+
+    * isFull()
+
+        - Checks is stack is full. 
+
+    * peek()
+
+        - Returns the data at the top of the stack.
+
+    * size()
+
+        - Returns the size of the stack.
