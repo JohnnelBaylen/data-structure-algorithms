@@ -13,9 +13,10 @@ DATA-STRUCTURES-ALGORITHMS/
 │   ├── circular-queue.txt      # Details and implementation notes on circular queues
 │   ├── linear-non-linear.txt   # Differences between linear and non-linear data structures
 │   ├── stacks.txt              # Stack data structure concepts
-│
-├── queue.cpp                   # C++ implementation of queue
-├── stacks.cpp                  # C++ implementation of stack
+|
+├── src/
+|   ├── queue.cpp               # C++ implementation of queue
+|   ├── stacks.cpp              # C++ implementation of stack
 ```
 
 ## Tools Used
